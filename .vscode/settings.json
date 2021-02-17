@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/williammarstrand/miniconda3/envs/com_social2021/bin/python"
+    "python.pythonPath": "/home/williammarstrand/miniconda3/envs/com_social2021/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
